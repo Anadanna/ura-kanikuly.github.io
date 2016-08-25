@@ -1,0 +1,72 @@
+.inhalt{
+    margin-top: 80px;
+}
+
+.profilbild_image{
+    height: 300px;
+/*    width: 60%;*/
+    background-color: black;
+    border-color: blue;
+    border-style: groove;
+    border-width: medium;
+    border-radius: 10000px;
+    margin-bottom: 30px;
+}
+
+    
+.small{
+    text-align: left;
+    font-size: 30px;
+    font-family: 'arial';
+    color: #e87511;
+}
+
+.indien_image {
+   border-color:#09942c;
+    border-style:double;
+    border-width: medium;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.Angkor_image {
+   border-color:#09942c;
+    border-style:double;
+    border-width: medium;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.artikel_metadata {
+    color: blue;
+    
+}
+
+.monkey{
+    color: blue;
+}
+
+.start{
+    margin: 0px;
+    font-size: 25px;
+}
+
+.ueberschrift{
+    font-size: 20px;
+    height: 50px;
+}
+
+.video{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.artikelbild{
+    margin-top: 80px;
+}
+
+.lea{
+    margin-top: 2000px;
+}
+
